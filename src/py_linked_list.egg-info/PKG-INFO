@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: py-linked-list
+Version: 0.0.1
+Summary: A Python package which contains some methods to manipulate a linked List.
+Home-page: https://github.com/aman2457/Linked_List
+Author: Aman Kumar
+Author-email: amankumar84349@gmail.com
+License: MIT
+Download-URL: https://github.com/aman2457/Linked_List/archive/refs/heads/main.zip
+Description: ## Hey
+Keywords: linked list,list,python linked list
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Operating System :: OS Independent
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Science/Research
+Description-Content-Type: text/markdown
